@@ -9,7 +9,7 @@
 ### Composer
 
 ```bash
-composer require antchain/corlab
+composer require antchain/CORLAB
 ```
 
 ## 问题

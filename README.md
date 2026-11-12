@@ -7,7 +7,7 @@ English | [简体中文](README-CN.md)
 ### Composer
 
 ```bash
-composer require antchain/corlab
+composer require antchain/CORLAB
 ```
 
 ## Issues
